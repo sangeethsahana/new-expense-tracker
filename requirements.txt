@@ -1,0 +1,10 @@
+
+Flask
+requests
+jsonify
+mysql-connector-python
+flask_mysqldb
+sendgrid
+gunicorn==20.1.0
+
+
